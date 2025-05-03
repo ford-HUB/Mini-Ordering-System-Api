@@ -1,3 +1,0 @@
-cd Order-Service && npm start
-cd ../Inventory-Service && npm start
-cd ../Notification-Service && npm start && node worker.js
